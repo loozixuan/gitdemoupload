@@ -1,6 +1,8 @@
 package com.example.gitdemo;
 
 public class Test {
+    public static final int GENERAL_CONFIG_DAY = 1;
+
     public void test(){
     }
 }
